@@ -4,7 +4,7 @@
 
 
 ### Context
-This dataset is a record of every building or building unit (apartment, etc.) sold in the New York City property market over a 12-month period.
+This dataset is a record of every building or building unit (apartment, etc.) sold in the New York City property market over a 12-month period from September 2016 to September 2017.
 
 ### Content
 This dataset contains the location, address, type, sale price, and sale date of building units sold. A reference on the trickier fields:
