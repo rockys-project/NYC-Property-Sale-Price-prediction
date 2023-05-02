@@ -25,9 +25,9 @@ Many sales occur with a nonsensically small dollar amount: $0 most commonly. The
 This dataset uses the financial definition of a building/building unit, for tax purposes. In case a single entity owns the building in question, a sale covers the value of the entire building. In case a building is owned piecemeal by its residents (a condominium), a sale refers to a single apartment (or group of apartments) owned by some individual.
 
 
-**### Acknowledgements**
+### Acknowledgements
 This dataset is a concatenated and slightly cleaned-up version of the New York City Department of Finance's Rolling Sales dataset.
 
 
-**### Inspiration**
+### Inspiration
 What can you discover about New York City real estate by looking at a year's worth of raw transaction records? Can you spot trends in the market, or build a model that predicts sale value in the future?
